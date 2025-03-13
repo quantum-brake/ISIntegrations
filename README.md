@@ -1,6 +1,8 @@
 # ISIntegrations
 The repository was created for the purpose of learning Integration of information systems
 
+> Changes via dev branch (just this one line)
+
 # [Vue Paper Dashboard](https://cristijora.github.io/vue-paper-dashboard/)
 
 > Admin dashboard based on paper dashboard UI template + vue-router
